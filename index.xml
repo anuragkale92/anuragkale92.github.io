@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anurag Kale&#39;s Internet Home</title>
+    <link>https://anuragkale.in/</link>
+    <description>Recent content on Anurag Kale&#39;s Internet Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://anuragkale.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://anuragkale.in/about/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://anuragkale.in/about/</guid>
+      <description>Hi I am Anurag Kale and this is my front door on the internet. I am a Cloud Consultant / Cloud Architect who loved to wrangle with everything related to data. I help companies to embrace cloud for their workloads. As of Sept 2021, I have worked in IT for 7+ years.
+My Employment History:  Cybercom Group (acquired by Knowit), Sweden as Cloud Consultant / AWS Solutions Architect. Helping customers with their cloud strategy, implementation and solution design.</description>
+    </item>
+    
+  </channel>
+</rss>
